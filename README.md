@@ -37,14 +37,17 @@ This project introduces an **AI-powered Smart Surveillance System** that uses **
 ---
 
 ## 🏆 Results ##
-
 ✅ Achieved 92–95% accuracy in PPE detection across varied lighting and crowded conditions.
+
 ✅ Reduced manual monitoring effort by 70%.
+
 ✅ Real-time violation alerts improved workplace safety compliance.
 
 ## 📌 Future Enhancements ##
-
 🚨 Real-time dashboard with violation statistics
+
 📱 Mobile app integration for supervisors
+
 🎤 Voice-based alerts
+
 ☁️ Cloud deployment with multi-camera support
